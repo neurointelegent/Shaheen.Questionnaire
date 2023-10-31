@@ -1,6 +1,6 @@
 \name{Shaheen.Questionnaire}
-\alias{}
-\title{}
+\alias{Shaheen.Questionnaire}
+\title{Shaheen.Questionnaire}
 \usage{
 Shaheen.Questionnaire::function()
 }
