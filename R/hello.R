@@ -88,17 +88,6 @@ list_cols <- function(df, char, freq) {
   return(col_list)
 }
 
-# Define a function that takes a vector of strings and a part of string as arguments
-remove_string <- function(vec, part) {
-  # Use the grepl function to find the indices of the strings that contain the part
-
-  for(i in part){
-    #ind <- grepl(i, vec)
-    ind <- str_detect(vec, part)
-  }
-  # Use the logical negation to select the strings that do not contain the part
-  vec[!ind]
-}
 
 
 # Define a function that takes a vector of strings and a part of string as arguments
