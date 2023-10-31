@@ -2,12 +2,12 @@
 
 To get help and documntation of this package, use this code:
 
-$$
+
 library(Shaheen.Questionnaire)
 
 
 ?Shaheen.Questionnaire
-$$
+
 
 
 ### This package is still under develpment and the compelete documntation will be available soon
